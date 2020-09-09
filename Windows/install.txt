@@ -1,0 +1,2 @@
+To install, simply execute the setup.exe file
+this layout is created with microsoft keyboard layout creator which is unavailable in microsoft webpage. you can download it using majorgeeks website
