@@ -2,8 +2,8 @@ default partial alphanumeric_keys
 xkb_symbols "pes" {
     name[Group1]= "Persian-ParsArch";
 
-    include "ir-parsrch(pes_part_basic)"
-    include "ir-parsrch(pes_part_ext)"
+    include "ir-parasrch(pes_part_basic)"
+    include "ir-parasrch(pes_part_ext)"
 
     include "nbsp(zwnj2nb3nnb4)"
     include "level3(ralt_switch)"
