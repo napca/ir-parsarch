@@ -8,10 +8,8 @@ This project is NOT made proffesionally, it is just a little hobby I started,so 
 
 ##TO DO
 
-make a port for windows
-
 make a port for mac
 
 make a port for anysoftkeyboard on android (Maybe)
 
-I wont make a port for console key mapping as it has no use
+I won't make a port for console key mapping as it has no use
